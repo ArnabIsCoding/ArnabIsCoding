@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArnabIsCoding
+- 👋 Hi, @ArnabIsCoding
 - 👀 I’m Exploring
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking around
