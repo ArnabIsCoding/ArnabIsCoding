@@ -1,7 +1,6 @@
 - 👋 Hi, @ArnabIsCoding
 - 👀 I’m Exploring
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT & DESIGNING
-- 💞️ 
 - 📫 @ArnabIsCoding on LinkedIn & Twitter
 
 <!---
